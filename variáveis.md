@@ -9,7 +9,7 @@
 
 **FIGURA 2.1** 
 
-
+git
 #### Tipos de Variáveis
 
 
