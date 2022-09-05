@@ -27,7 +27,7 @@ git
 
 #### têm valores que representam quantidades. Variáveis numéricas podem ser subdivididas ainda em variáveis discretas ou variáveis contínuas. 
 
-**Variáveis dsicretas**
+**Variáveis discretas**
 
 #### apresentam valores numéricos que surgem de um processo de contagem (quantidade). '' Qual é a quantidade de revistas que se assina '' é um exemplo de uma variável numérica discreta , uma vez que a resposta corresponde a um dentre uma quantidade de números inteiros. A quantidade de itens que um consumidor adquire corresponde a uma variável numérica discreta .
 
