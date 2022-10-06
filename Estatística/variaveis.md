@@ -25,7 +25,7 @@ git
 
 **Variáveis numéricas( Variáveis quantitativas.)** 
 
-#### têm valores que representam quantidades. Variáveis numéricas podem ser subdivididas ainda em variáveis discretas ou variáveis contínuas. 
+#### têm valores que representam quantidades. Variáveis numéricas podem ser subdivididas ainda em variáveis discretas ou variáveis contínuas.. 
 
 **Variáveis discretas**
 
