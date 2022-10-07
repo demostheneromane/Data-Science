@@ -2,7 +2,7 @@
 
 #### Depois de ter definido as suas variáveis e coletado os seus dados ,, você organiza seus dados de modo tal que isso possa auxiliá-lo na preparação para as etapas posteriores de visualização e análise de seus dados . As técnicas que você utiliza para organizar seus dados dependem do tipo de variável(categórica ou numérica) associado a seus dados. 
 
-**Organizando Dados Categóricos** 
+**Organizando Dados Categóricos.** 
 
 #### você organiza dados categóricos tabulando as respostas com base nas categorias e posicionando os resultados em tabelas. Tabelas resumidas , que se destinam a uma única variável categórica e tabelas de contingência que são desenvolvidas para duas ou mais variáveis categóricas. 
 
