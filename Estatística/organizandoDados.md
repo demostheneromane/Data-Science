@@ -1,6 +1,6 @@
 **ORGANIZANDO DADOS** 
 
-#### Depois de ter definido as suas variáveis e coletado os seus dados ,, você organiza seus dados de modo tal que isso possa auxiliá-lo na preparação para as etapas posteriores de visualização e análise de seus dados . As técnicas que você utiliza para organizar seus dados dependem do tipo de variável(categórica ou numérica) associado a seus dados. 
+#### Depois de ter definido as suas variáveis e coletado os seus dados ,, você organiza seus dados de modo tal que isso possa auxiliá-lo na preparação para as etapas posteriores de visualização e análise de seus dados . As técnicas que você utiliza para organizar seus dados dependem do tipo de variável(categórica ou numérica) associado a seus dados..
 
 **Organizando Dados Categóricos.** 
 
