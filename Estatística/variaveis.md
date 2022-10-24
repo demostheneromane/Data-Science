@@ -33,7 +33,7 @@ git
 
 **Variáveis Contínuas** 
 
-#### produzem respostas numéricas que surgem de um processo de medição (medidas). O tempo que você espera pelo atendimento de um caixa no banco é um exemplo de variável numérica contínua. Uma vez que a resposta pode assumir qualquer valor dentro dos limites de um continuum ou intervalo . Por exemplo o seu tempo de espera poderia ser 1 minuto , 1.1 minuto, 1.113 minuto dependendo da precisão do dispositivo utilizado. 
+#### produzem respostas numéricas que surgem de um processo de medição (medidas). O tempo que você espera pelo atendimento de um caixa no banco é um exemplo de variável numérica contínua. Uma vez que a resposta pode assumir qualquer valor dentro dos limites de um continuum ou intervalo . Por exemplo o seu tempo de espera poderia ser 1 minuto , 1.1 minuto, 1.113 minuto dependendo da precisão do dispositivo utilizado..
 
 
 ## Níveis de Mensuração e Escalas de Mensuração 
