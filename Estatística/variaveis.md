@@ -15,7 +15,7 @@ git
 
 |Tipo de Dados | Pergunta | Respostas | 
 | --|--|--| 
-|Categóricos | Você atualmente possui alguma espécie  de ação em bolsa ou título de dívidas ? | sim ou Não| 
+|Categóricos | Você atualmente possui alguma espécie  de ação em bolsa ou título de dívidas ?? | sim ou Não| 
 | Numéricos Discretos | Quantas Revistas você atualmente assina ? | Quantidade exemplo : 2,3,4, 5 | 
 |Numéricos Contínuos| Qual é sua estatura ? | Polegadas - que é uma unidade de comprimento. |  
 
