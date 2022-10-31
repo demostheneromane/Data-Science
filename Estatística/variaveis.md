@@ -81,7 +81,7 @@ git
 
 **Uma escala intervalar** 
 
-#### constitui uma escala ordenada na qual a diferença entre mensurações é uma quantidade significativa embora não envolva um verdadeiro ponto zero. por exemplo , uma leitura de temperatura realizada ao meio-dia , correspondente a 67 graus Fahrenheit , é 2 graus mais quente que uma leitura de 65 graus realizada ao meio-dia . Além disso , a diferença de 2 graus Fahrenheit nas leituras de temperatura feitas ao meio-dia é a mesma que no caso de as duas temperaturas ao meio-dia corresponderem a 74 e 76 graus Fahrenheit. 
+#### constitui uma escala ordenada na qual a diferença entre mensurações é uma quantidade significativa embora não envolva um verdadeiro ponto zero. por exemplo , uma leitura de temperatura realizada ao meio-dia , correspondente a 67 graus Fahrenheit , é 2 graus mais quente que uma leitura de 65 graus realizada ao meio-dia . Além disso , a diferença de 2 graus Fahrenheit nas leituras de temperatura feitas ao meio-dia é a mesma que no caso de as duas temperaturas ao meio-dia corresponderem a 74 e 76 graus Fahrenheit..
 
 
 **Uma escala de proporcionalidade** 
