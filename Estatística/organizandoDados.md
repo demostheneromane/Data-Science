@@ -4,7 +4,7 @@
 
 **Organizando Dados Categóricos.** 
 
-#### você organiza dados categóricos tabulando as respostas com base nas categorias e posicionando os resultados em tabelas. Tabelas resumidas , que se destinam a uma única variável categórica e tabelas de contingência que são desenvolvidas para duas ou mais variáveis categóricas..
+#### você organiza dados categóricos tabulando as respostas com base nas categorias e posicionando os resultados em tabelas. Tabelas resumidas , que se destinam a uma única variável categórica e tabelas de contingência que são desenvolvidas para duas ou mais variáveis categóricas...
 
 **A Tabela Resumida** 
 #### Uma tabela Resumida apresenta respostas tabuladas sob a forma de frequências ou percentuais para cada uma das categorias.Uma tabela resumida ajuda a verificar as diferenças entre as categorias exibindo , em colunas separadas , a frequência, a quantidade ou a percentagem de itens em um determinado conjunto de categorias. A Tabela 2.1 ilustra uma tabela resumida que tabula as respostas para uma pesquisa recente que questionava os adultos quanto a como eles pagavam suas contas mensais..
