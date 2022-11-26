@@ -21,8 +21,7 @@ git
 
 
 **Variáveis Categóricas( Variáveis Qualitativas)**
-#### têm valores que podem somente ser posicionados em categorias tais como sim e não " você actualmente possui alguma espécie de ação em bolsa ou título de dívidas ? (sim ou não) e qual é o nível de risco de um fundo de títulos (abaixo da média, médio, acima da médio) são exemplos de variáveis categóricas. 
-
+#### têm valores que podem somente ser posicionados em categorias tais como sim e não " você actualmente possui alguma espécie de ação em bolsa ou título de dívidas ? (sim ou não) e qual é o nível de risco de um fundo de títulos (abaixo da média, médio, acima da médio) são exemplos de variáveis categóricas..
 **Variáveis numéricas( Variáveis quantitativas)** 
 
 #### têm valores que representam quantidades. Variáveis numéricas podem ser subdivididas ainda em variáveis discretas ou variáveis contínuas. 
