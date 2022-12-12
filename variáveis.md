@@ -1,6 +1,6 @@
 # Tipos de Variáveis 
 
-#### As variáveis podem ser classificadas como categóricas ou numéricas (Qualitativas ou Quantitativas). 
+#### As variáveis podem ser classificadas como categóricas ou numéricas (Qualitativas ou Quantitativas)..
 
 
 
