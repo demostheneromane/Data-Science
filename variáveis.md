@@ -28,7 +28,7 @@ git
 
 **Variáveis dsicretas**
 
-#### apresentam valores numéricos que surgem de um processo de contagem (quantidade). '' Qual é a quantidade de revistas que se assina '' é um exemplo de uma variável numérica discreta , uma vez que a resposta corresponde a um dentre uma quantidade de números inteiros. A quantidade de itens que um consumidor adquire corresponde a uma variável numérica discreta ..
+#### apresentam valores numéricos que surgem de um processo de contagem (quantidade). '' Qual é a quantidade de revistas que se assina '' é um exemplo de uma variável numérica discreta , uma vez que a resposta corresponde a um dentre uma quantidade de números inteiros. A quantidade de itens que um consumidor adquire corresponde a uma variável numérica discreta ...
 
 **Variáveis Contínuas** 
 
