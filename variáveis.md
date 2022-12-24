@@ -76,7 +76,7 @@ git
 **Escala Intervalar e Escala de Proporcionalidade** 
 
 
-#### As variáveis numéricas são mensurados em uma escala intervalar ou em uma escala de proporcionalidade .
+#### As variáveis numéricas são mensurados em uma escala intervalar ou em uma escala de proporcionalidade ..
 
 **Uma escala intervalar** 
 
