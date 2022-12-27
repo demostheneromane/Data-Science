@@ -73,7 +73,7 @@ git
 | Notas do estudante | A B C D F | 
 | Classificação no corpo docente | Professor Universitário, Professor Adjunto, Professor Assistente, Instrutor |  
 
-**Escala Intervalar e Escala de Proporcionalidade** 
+**Escala Intervalar e Escala de Proporcionalidade.** 
 
 
 #### As variáveis numéricas são mensurados em uma escala intervalar ou em uma escala de proporcionalidade ..
