@@ -41,7 +41,7 @@ git
 
 **Escala Nominal e Escala Ordinal** 
 
-#### As variáveis categóricas são mensurados em uma escala nominal ou em uma escala ordinal. 
+#### As variáveis categóricas são mensurados em uma escala nominal ou em uma escala ordinal..
 
 **Uma Escala Nominal** 
 
