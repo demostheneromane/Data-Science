@@ -45,7 +45,7 @@ git
 
 **Uma Escala Nominal** 
 
-#### classifica os dados em categorias distintas nas quais não está implícito nenhum tipo de classificação. A escala nominal não leva em conta a quantidade de diferenças entre as categorias.
+#### classifica os dados em categorias distintas nas quais não está implícito nenhum tipo de classificação. A escala nominal não leva em conta a quantidade de diferenças entre as categorias..
 
 
 **FIGURA 2.2** 
